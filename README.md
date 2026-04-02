@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/icons/auto.svg" alt="CloudflareSub Logo" width="88" />
+</p>
+
 # CloudflareSub
 
 基于 Cloudflare Workers + Workers KV 的订阅生成器，支持：
